@@ -11,7 +11,7 @@ Tutorials
 * `Apollo GraphQL Docs <https://www.apollographql.com/docs/>`__
 * `The Guild <https://the-guild.dev/open-source>`__
 * `Fauna DB Docs <https://docs.fauna.com/fauna/current/start/graphql>`__
-* `Shopify <https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md>`__ 
+* `Shopify Graphql Design Tutorial <https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md>`__
 
 Securing GraphQL
 ------------------
@@ -25,7 +25,7 @@ Securing GraphQL
 Testing
 ---------
 
-* `dynamic GraphQL testing tool <https://meeshkan.com/test-graphql/>`__
+* `Dynamic GraphQL testing tool <https://meeshkan.com/test-graphql/>`__
 * `Unit Tests with Enzyme and Apollo Graphql <https://dev.to/komyg/unit-tests-with-enzyme-and-apollo-graphql-5e7p>`__
 
 Services
@@ -42,6 +42,7 @@ Blogs
 --------
 
 * `Creating an App using React and Apollo Graphql <https://dev.to/komyg/creating-an-app-using-react-and-apollo-graphql-1ine>`__
+* `GraphQL — Common vulnerabilities & how to exploit them <https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696>`__
 * `Rethinking Twitter as a Serverless App <https://css-tricks.com/rethinking-twitter-as-a-serverless-app/>`__
 * `The Ultimate Guide to Schema Stitching in GraphQL <https://hasura.io/blog/the-ultimate-guide-to-schema-stitching-in-graphql-f30178ac0072/>`__
 
