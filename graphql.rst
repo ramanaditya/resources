@@ -8,7 +8,7 @@ Tutorials
 * `Official GraphQL Website <https://graphql.org/learn/>`__
 * `Contentful <https://www.contentful.com/developers/videos/learn-graphql/?utm_medium=social-organic&utm_source=discord&utm_campaign=20q3-learn-graphql-course&utm_content=graphql-course>`__
 * `Hasura <https://hasura.io/learn/>`__
-* `Appolo GraphQL Docs <https://www.apollographql.com/docs/>`__
+* `Apollo GraphQL Docs <https://www.apollographql.com/docs/>`__
 * `The Guild <https://the-guild.dev/open-source>`__
 * `Fauna DB Docs <https://docs.fauna.com/fauna/current/start/graphql>`__
 
