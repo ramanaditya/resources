@@ -11,6 +11,7 @@ Tutorials
 * `Apollo GraphQL Docs <https://www.apollographql.com/docs/>`__
 * `The Guild <https://the-guild.dev/open-source>`__
 * `Fauna DB Docs <https://docs.fauna.com/fauna/current/start/graphql>`__
+* `Shopify <https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md>`__ 
 
 Securing GraphQL
 ------------------
