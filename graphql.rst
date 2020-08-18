@@ -25,7 +25,7 @@ Securing GraphQL
 Testing
 ---------
 
-* `Dynamic GraphQL testing tool <https://meeshkan.com/test-graphql/>`__
+* `In-browser automated GraphQL testing using Meeshkan <https://meeshkan.com/test-graphql/>`__
 * `Unit Tests with Enzyme and Apollo Graphql <https://dev.to/komyg/unit-tests-with-enzyme-and-apollo-graphql-5e7p>`__
 
 Services
