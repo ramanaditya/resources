@@ -2,6 +2,11 @@
 Resources
 ==========
 
-Collection of resources related to Computer Science
+Beginner Level Resources
+--------------------------
+* `Git and Version Control System <https://github.com/ramanaditya/resources/blob/master/vcs.rst>`__
 
-1. `GraphQL <https://github.com/ramanaditya/resources/blob/master/graphql.rst>`__
+All Resources
+--------------
+* `Git and Version Control System <https://github.com/ramanaditya/resources/blob/master/vcs.rst>`__
+* `GraphQL <https://github.com/ramanaditya/resources/blob/master/graphql.rst>`__
